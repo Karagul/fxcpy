@@ -1,7 +1,7 @@
 # Update 13/07/2018
 #### This API is being re-designed
 
-![alt tag](fxcpy/new_design)
+![alt tag](fxcpy/new_design.png)
 
 # fxcpy
 fxcpy is an open-soured python implementation of the Forexconnect API SDK offered by FXCM. The full documentation can be found **[here](http://fxcodebase.com/bin/forexconnect/1.4.1/help/CPlusPlus/web-content.html#index.html)**
